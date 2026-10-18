@@ -1,0 +1,7 @@
+"TPE","Scenario","Baseline_RMSE","GBLUP_RMSE","RMSE_reduction_pct"
+"TPE1","CV1: entirely new lines",0.472946402184782,0.460206516932701,2.7
+"TPE1","CV2: known lines, missing site record",0.474607738426387,0.43438931467834,8.5
+"TPE2","CV1: entirely new lines",0.280101469544103,0.291054140701161,-3.9
+"TPE2","CV2: known lines, missing site record",0.280969287180177,0.193944983377455,31
+"TPE3","CV1: entirely new lines",0.297233594647483,0.294851865861992,0.8
+"TPE3","CV2: known lines, missing site record",0.298311368607221,0.295845966266523,0.8
